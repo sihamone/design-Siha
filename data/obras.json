@@ -1,33 +1,110 @@
 {
   "artista": {
-    "nombre": "Nombre del Artista",
-    "email": "tu-correo@ejemplo.com",
-    "telefono": "+52 000 000 0000",
-    "instagram": "@tu_usuario",
+    "nombre": "Siha",
+    "email": "sihamone20@gmail.com",
+    "telefono": "",
+    "instagram": "@siha.design",
     "sitio": ""
   },
   "obras": [
     {
       "id": "obra-01",
       "titulo": "Mi Nerviosismo",
-      "anio": 2025,
+      "anio": 2022,
       "tecnica": "Lápiz de colores",
       "dimensiones": "60 x 70 cm",
       "descripcion": "Podemos pasar de risas a llantos, somos humanos. El tema es cuando hay un llanto que estás postergando y hay una risa fingida que te atrapa en un estado de sinsentido.",
       "precio": "$400",
       "disponibilidad": "disponible",
-      "imagen": "images/obra-01.svg"
+      "imagen": "images/Mi Nerviosismo.jpeg"
     },
     {
       "id": "obra-02",
       "titulo": "Confusa",
-      "anio": 2025,
+      "anio": 2024,
       "tecnica": "Acrílico",
       "dimensiones": "26 x 32 cm",
       "descripcion": "Tiempos de incertidumbre te hacen retratar para ver un poco más allá de la persona y reflejar lo que tú ves, y en este caso se ve una persona confundida.",
       "precio": "$150",
       "disponibilidad": "disponible",
-      "imagen": "images/obra-02.svg"
+      "imagen": "images/Confusa.jpeg"
+    },
+    {
+      "id": "obra-03",
+      "titulo": "Confusa vueltas",
+      "anio": 2024,
+      "tecnica": "Acrílico",
+      "dimensiones": "30 x 41 cm",
+      "descripcion": "Un rostro que se deshace entre el rojo y el negro, arrastrado por trazos que giran y se contradicen. La confusión aquí no se queda quieta: da vueltas, se enreda y se vuelve movimiento puro, como una mente que no encuentra dónde detenerse.",
+      "precio": "$100",
+      "disponibilidad": "disponible",
+      "imagen": "images/Confusa, vueltas.jpeg"
+    },
+    {
+      "id": "obra-04",
+      "titulo": "Violinista",
+      "anio": 2024,
+      "tecnica": "Lápiz de colores",
+      "dimensiones": "75 x 57 cm",
+      "descripcion": "Un retrato en tonos rojizos que parece tejido sobre papel arrugado. La mirada, cansada y firme a la vez, sostiene una tensión callada, la de quien lleva mucho tiempo interpretando una misma nota. Un solo corte dorado atraviesa la escena como una cuerda a punto de sonar.",
+      "precio": "$350",
+      "disponibilidad": "disponible",
+      "imagen": "images/Violinista.jpeg"
+    },
+    {
+      "id": "obra-05",
+      "titulo": "Sobreviviente",
+      "anio": 2024,
+      "tecnica": "Lápiz de colores",
+      "dimensiones": "73 x 83 cm",
+      "descripcion": "Un rostro rojo, partido en franjas que no terminan de encajar, con la lengua fuera y los ojos muy abiertos. Es el retrato de quien ha resistido y lo lleva escrito en la piel: fragmentado, intenso, pero todavía de pie.",
+      "precio": "$350",
+      "disponibilidad": "disponible",
+      "imagen": "images/Sobreviviente.jpeg"
+    },
+    {
+      "id": "obra-06",
+      "titulo": "Locura",
+      "anio": 2022,
+      "tecnica": "Lápiz de colores",
+      "dimensiones": "64 x 74 cm",
+      "descripcion": "Una gran sonrisa que estalla en color sobre un rostro dividido en dos. Detrás de la risa amplia se asoma algo desbordado, esa delgada línea donde la alegría y el delirio se confunden y ya no se sabe cuál sostiene a cuál.",
+      "precio": "$350",
+      "disponibilidad": "disponible",
+      "imagen": "images/Locura.jpeg"
+    },
+    {
+      "id": "obra-07",
+      "titulo": "Gritos de Pandemia",
+      "anio": 2022,
+      "tecnica": "Lápiz de colores",
+      "dimensiones": "66 x 97 cm",
+      "descripcion": "Un rostro partido en dos que pasa de la mirada contenida al grito abierto. Los ojos cargados de color y la boca desencajada capturan el encierro de la pandemia: el momento en que todo lo callado por fin encuentra salida.",
+      "precio": "$400",
+      "disponibilidad": "disponible",
+      "imagen": "images/Gritos de Pandemia.jpeg"
+    },
+    {
+      "id": "obra-08",
+      "titulo": "Yo",
+      "anio": 2022,
+      "tecnica": "Lápiz de colores",
+      "dimensiones": "58 x 77 cm",
+      "descripcion": "Un autorretrato que sonríe con todo el rostro, fragmentado en franjas y encendido de color alrededor de los ojos. Es una mirada hacia adentro: reconocerse entero incluso cuando uno se ve en pedazos, y sonreír de todos modos.",
+      "precio": "$400",
+      "disponibilidad": "disponible",
+      "imagen": "images/Yo.jpeg"
+    },
+    {
+      "id": "obra-09",
+      "titulo": "Roja Mar",
+      "anio": 2026,
+      "tecnica": "Lápiz de colores",
+      "dimensiones": "30 x 40 cm",
+      "descripcion": "Un mosaico que se expande como un oleaje de teselas rojas, cremas y azules. Estrellas y engranajes se repiten y giran sin centro fijo, un mar geométrico donde el patrón nunca se cierra del todo y siempre invita a mirar un poco más.",
+      "precio": "$300",
+      "disponibilidad": "disponible",
+      "imagen": "images/Roja Mar.jpeg"
     }
   ]
 }
