@@ -1,0 +1,10 @@
+Pon aquí las fotos de tus obras.
+
+Nómbralas igual que en data/obras.json, por ejemplo:
+  obra-01.jpg
+  obra-02.jpg
+  ...
+
+Recomendación: ancho ~1200 px y peso menor a ~500 KB.
+
+Puedes borrar este archivo cuando agregues tus fotos.
