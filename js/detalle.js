@@ -65,11 +65,11 @@ function renderContactoBox(artista) {
 
 function escapeHtml(str) {
   return String(str)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, ">");
+    .split("&").join("&" + "amp;")
+    .split("<").join("&" + "lt;")
+    .split(">").join("&" + "gt;");
 }
 
 function escapeAttr(str) {
-  return escapeHtml(str).replace(/"/g, """);
+  return escapeHtml(str).split('"').join("&" + "quot;");
 }
