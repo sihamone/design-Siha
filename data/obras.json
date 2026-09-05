@@ -8,17 +8,6 @@
   },
   "obras": [
     {
-      "id": "obra-09",
-      "titulo": "Roja Mar",
-      "anio": 2026,
-      "tecnica": "Lápiz de colores",
-      "dimensiones": "30 x 40 cm",
-      "descripcion": "Un mosaico que se expande como un oleaje de teselas rojas, cremas y azules. Estrellas y engranajes se repiten y giran sin centro fijo, un mar geométrico donde el patrón nunca se cierra del todo y siempre invita a mirar un poco más.",
-      "precio": "$550",
-      "disponibilidad": "disponible",
-      "imagen": "images/obra-09.jpeg"
-    },
-    {
       "id": "obra-10",
       "titulo": "Cuento de hadas",
       "anio": 2026,
